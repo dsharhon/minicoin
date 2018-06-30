@@ -1,6 +1,8 @@
 # minicoin
 An educational cryptocurrency.
 
+By Dylan Sharhon.
+
 Based on [Naivecoin](https://lhartikk.github.io/) by [Lauri Hartikka](https://github.com/lhartikk).
 
 ## Features
