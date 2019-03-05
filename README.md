@@ -1,3 +1,5 @@
+<img src=https://www.sharhon.com/files/minicoin-logo.svg width=64>
+
 # minicoin
 An educational cryptocurrency.
 
@@ -9,6 +11,7 @@ Based on [Naivecoin](https://lhartikk.github.io/) by [Lauri Hartikka](https://gi
 * P2P relaying
 * POW mining
 * UTXO transactions
+* Mempool
 
 ## Running
     npm install
